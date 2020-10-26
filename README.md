@@ -4,12 +4,12 @@ The objective of this project is to create a thought-provoking 2D puzzle platfor
 # Instruction to run the game
 
 ## Andriod Mobile
-1. Download the apk file 
+1. Download [apk](https://github.com/lokesh45/Escape_From_Perfection_Game/raw/master/apk/Escape%20From%20Perfection.apk) file
 2. Install the game by running the apk file
 
 ## PC
-1. Download BlueStacks software to simulate android environment in PC 
-2. Download the apk file 
+1. Download [BlueStacks](https://www.bluestacks.com/download.html) to simulate android environment in PC 
+2. Download [apk](https://github.com/lokesh45/Escape_From_Perfection_Game/raw/master/apk/Escape%20From%20Perfection.apk) file
 3. Install the game by running the apk file
 
 ### Game Screens<br>
@@ -17,3 +17,6 @@ The objective of this project is to create a thought-provoking 2D puzzle platfor
 ![](https://github.com/lokesh45/Escape_From_Perfection_Game/blob/master/images/efp2.PNG)<br>
 ![](https://github.com/lokesh45/Escape_From_Perfection_Game/blob/master/images/efp3.PNG)<br>
 ![](https://github.com/lokesh45/Escape_From_Perfection_Game/blob/master/images/efp4.PNG)
+
+### Technologies Used
+#### C#, Android Studio, Unity3D
